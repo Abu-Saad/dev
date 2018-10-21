@@ -1,0 +1,18 @@
+
+theme : night
+
+layout : center-right
+
+transition : none
+
+highlight : ir-black
+
+code-line-numbers : true
+
+charts : true
+
+mathjax : TeX-AMS_HTML-full
+
+published : true
+
+footnote : "Muaadh and Liyakhat"
